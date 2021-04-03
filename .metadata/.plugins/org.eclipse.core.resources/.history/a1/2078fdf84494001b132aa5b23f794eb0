@@ -1,0 +1,6 @@
+package com.rajesh.jackson.json.demo;
+
+public class Address {
+
+	
+}

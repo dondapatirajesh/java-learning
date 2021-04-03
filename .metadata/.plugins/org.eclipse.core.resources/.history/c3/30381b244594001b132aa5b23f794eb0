@@ -1,0 +1,8 @@
+package com.rajesh.jackson.json.demo;
+
+public class Address {
+
+	private String street;
+	private String city;
+	private String 
+}
