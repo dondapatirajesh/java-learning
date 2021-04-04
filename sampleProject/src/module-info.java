@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author rajesh
- *
- */
-module sampleProject {
-}
