@@ -17,7 +17,7 @@ public class MySpringMvcDispatherServletInitializer extends AbstractAnnotationCo
 	// maps to root path
 	@Override
 	protected String[] getServletMappings() {
-		return new String[] { "/" };
+		return new String[] {"/"};
 
 	}
 }
